@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "瞬間概念 (BEST LIVE Audio use only)",
+  "base_artist": "19",
+  "createdAt": "2025-12-25T02:33:32.892682Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞬間概念",
+      "artist": "19",
+      "has_synced": false,
+      "path": "select/pl_01_瞬間概念_19.txt"
+    }
+  ]
+}
